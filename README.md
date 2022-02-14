@@ -15,4 +15,4 @@ pyOCR depends on two libraries, Pillow and Pytesseract. To install them simply t
 Just move the script to the folder where your image is and just double click to run the program.
 
 ## Script in Action  
-[![pyOCR.gif](https://i.postimg.cc/rFYsRb56/pyOCR.gif)](https://postimg.cc/xcMnW6sg)
+![pyOCR](https://i.postimg.cc/rFYsRb56/pyOCR.gif)
